@@ -1,5 +1,8 @@
 // ************** MAJORITY ELEMENT **************
 
+// TIME COMPLEXITY = O(n)
+// SPACE COMPLEXITY = O(n)
+
 import java.util.*;
 
 class GFG {
@@ -11,9 +14,14 @@ class GFG {
 		
 		for(int i = 0; i< n; i++)
 		   a[i] = sc.nextInt();
-		   
-		HashMap<Integer, Integer> hm = new HashMap<>();
-		int ansKey = 0;
+		
+		// Hashmap for counting frequency of each number
+		HashMap<Integer, Integer> hm = new HashMap<>(); 
+		
+		// Stores key which has majority
+		int ansKey = 0; 
+		
+		// flag is True if we find majority element
 		boolean flag = false;
 		
 		
