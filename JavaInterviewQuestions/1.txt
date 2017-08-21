@@ -22,4 +22,8 @@
 
 12. Which type of exceptions we must declare?
 
-13. 
+13. How do you sort arrayList of objects?
+
+14. Explain Association & Aggregation with example?
+
+15.  What is Run Time Polmorphism?
