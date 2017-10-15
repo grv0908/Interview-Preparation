@@ -7,8 +7,7 @@ class StackUsingLinkedList{
         Node<Integer> currNode = new Node<Integer>(data);
         if(top == null)
            top = currNode;
-        else
-        {
+        else{
             currNode.next = top;
             top = currNode;
         }
@@ -17,8 +16,7 @@ class StackUsingLinkedList{
     public int pop(){     
         if(top == null)
            return new Exception();
-        else
-        {
+        else{
             int data = top.data;
             top = top.next;
             return data;
