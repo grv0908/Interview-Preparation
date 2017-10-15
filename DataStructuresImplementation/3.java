@@ -1,19 +1,21 @@
-class QueueUsingArray{
-    private int[] element;
+package com.grv.Queue;
+
+public class QueueUsingArray<T>{
+    private T[] element;
     private int front;
     private int rear;
     private int size;
     
     public QueueUsingArray(int size){
-         element = new int[size];
+         element = (T[]) new Object[size];
          front = -1;
          rear = 0;
          size = 0;
     }
     
-    public void enqueue(int data){
+    public void enqueue(T data) throws QueueFullException{
         if(size == element.length )
-           throw new Exception();
+           throw new QueueFullException();
          
         element[rear] = data;
         rear = (rear + 1)%element.length;
@@ -22,11 +24,11 @@ class QueueUsingArray{
           front = 0;
     }
     
-    public int dequeue(){
+    public T dequeue() throws EmptyQueueException{
         if(size == 0)
-           throw new Exception();
+           throw new EmptyQueueException();
         
-        int data = element[front];
+        T data = element[front];
         front = (front + 1)%element.length;
         size--;
         if(size == 0)
@@ -47,6 +49,13 @@ class QueueUsingArray{
     
     public int size(){
         return size;
-    }
-    
+    }  
+}
+
+
+
+public class EmptyQueueException extends Exception {
+}
+
+public class QueueFullException extends Exception {
 }
