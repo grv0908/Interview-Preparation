@@ -1,5 +1,13 @@
 package com.grv.sorting;
 
+/**
+ * T(n) = 2T(n/2) + \Theta(n)
+ * Best Case : O(nlogn)
+ * Worst Case : O(nlogn)
+ * Avg Case : O(nlogn)
+ * Auxiliary Space : O(n)
+ */
+
 public class MergeSort {
 	
 	public static void sort(int[] arr) {
