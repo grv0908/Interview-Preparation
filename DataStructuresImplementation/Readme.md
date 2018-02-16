@@ -1,12 +1,12 @@
 # Data Structures Implementation
 
 ## 1. Stack
-- [using Array](https://github.com/grv0908/InterviewPreparation/blob/master/DataStructuresImplementation/01.java)
-- [using LinkedList](https://github.com/grv0908/InterviewPreparation/blob/master/DataStructuresImplementation/02.java)
+- [using Array](https://github.com/grv0908/InterviewPreparation/blob/master/DataStructuresImplementation/01a.java)
+- [using LinkedList](https://github.com/grv0908/InterviewPreparation/blob/master/DataStructuresImplementation/01b.java)
 
 ## 2. Queue
-- [using Array](https://github.com/grv0908/InterviewPreparation/blob/master/DataStructuresImplementation/03.java)
-- [using LinkedList](https://github.com/grv0908/InterviewPreparation/blob/master/DataStructuresImplementation/04.java)
+- [using Array](https://github.com/grv0908/InterviewPreparation/blob/master/DataStructuresImplementation/02a.java)
+- [using LinkedList](https://github.com/grv0908/InterviewPreparation/blob/master/DataStructuresImplementation/02b.java)
 
 ## 3. LinkedList
 - [Singly]()
@@ -16,7 +16,7 @@
 
 ## 5. Tree
 - [Generic Tree]()
-- [Binary Tree]()
+- [Binary Tree](https://github.com/grv0908/InterviewPreparation/blob/master/DataStructuresImplementation/06.java)
 
 ## 6. Graph
 
