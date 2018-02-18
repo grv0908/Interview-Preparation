@@ -18,7 +18,8 @@ class BinaryTreeUtil {
     
     static Scanner sc = new Scanner(System.in);
     
-    /* Input : 1 2 4 5 -1 5 -1 3 6 -1 7 -1  (DFS order)
+    /* Creating tree when input is given depth
+     * Input : 1 2 4 -1 -1 5 -1 -1 3 6 -1 -1 7 -1 -1  (DFS order)
      * 
      *                 1
      *               /   \
@@ -40,7 +41,8 @@ class BinaryTreeUtil {
     }
     
      
-    /* Input : 1 2 3 4 5 6 7 -1 -1 -1 -1 -1 -1 -1 -1  (BFS order)
+    /* Creating tree when input is given level wise
+     * Input : 1 2 3 4 5 6 7 -1 -1 -1 -1 -1 -1 -1 -1  (BFS order)
      * 
      *                 1
      *               /   \
