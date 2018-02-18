@@ -15,7 +15,7 @@
 ## 4. [HashMap](https://github.com/grv0908/InterviewPreparation/blob/master/DataStructuresImplementation/10.java)
 
 ## 5. Tree
-- [Generic Tree]()
+- [Generic Tree](https://github.com/grv0908/InterviewPreparation/blob/master/DataStructuresImplementation/GenericTree.java)
 - [Binary Tree](https://github.com/grv0908/InterviewPreparation/blob/master/DataStructuresImplementation/06.java)
 
 ## 6. Graph
