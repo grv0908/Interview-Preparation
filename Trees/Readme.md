@@ -10,10 +10,10 @@
 #### 5. Print all path Root to leaf View
 
 ## B. View 
-#### 1. Left View
-#### 2. Right View
-#### 3. Top View
-#### 4. Bottom View
+#### 1. [Left View](https://github.com/grv0908/InterviewPreparation/blob/master/Trees/LeftView.java)
+#### 2. [Right View](https://github.com/grv0908/InterviewPreparation/blob/master/Trees/RightView.java)
+#### 3. [Top View](https://github.com/grv0908/InterviewPreparation/blob/master/Trees/TopView.java)
+#### 4. [Bottom View](https://github.com/grv0908/InterviewPreparation/blob/master/Trees/BottomView.java)
 
 ## C. Common Questions
 #### 1. Get Level of a node in a Binary Tree
