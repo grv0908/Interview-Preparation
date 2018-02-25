@@ -29,7 +29,7 @@
 #### 11. Find distance between two nodes of a binary Tree.
 
 ## D. Construction Questions
-#### 1. Construct a Binary Tree from its Mirror Tree.
+#### 1. Construct a Mirror of a binary Tree.
 #### 2. Construct a Tree from given inorder and preorder.
 #### 3. Construct a Tree from given inorder and postorder.
 #### 4. Construct a Complete Binary Tree from LinkedList Representation.
