@@ -7,7 +7,7 @@
 #### 4. Diagonal Traversal 
 #### 5. Print Tree in Vertical Order
 #### 6. Boundary Traversal of Tree
-#### 5. Print all path Root to leaf View
+#### 7. Print all path Root to leaf View
 
 ## B. View 
 #### 1. [Left View](https://github.com/grv0908/InterviewPreparation/blob/master/Trees/LeftView.java)
@@ -25,4 +25,11 @@
 #### 7. Check whether Tree is a sumTree or not.
 #### 8. Check whether Binary Tree is BST or not.
 #### 9. Print nodes at K distance from root.
-#### 10. Find Lowest Common Ancestor of two nodes
+#### 10. Find Lowest Common Ancestor of two nodes.
+#### 11. Find distance between two nodes of a binary Tree.
+
+## D. Construction Questions
+#### 1. Construct a Binary Tree from its Mirror Tree.
+#### 2. Construct a Tree from given inorder and preorder.
+#### 3. Construct a Tree from given inorder and postorder.
+#### 4. Construct a Complete Binary Tree from LinkedList Representation.
