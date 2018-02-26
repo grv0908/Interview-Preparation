@@ -1,13 +1,13 @@
 # Popular Binary Tree Questions
 
 ## A. Traversals
-#### 1. Level Order Traversal 
-#### 2. Spiral Order Traversal
-#### 3. Print level Order line by line
-#### 4. Diagonal Traversal 
-#### 5. Print Tree in Vertical Order
+#### 1. [Level Order Traversal](https://github.com/grv0908/Interview-Preparation/blob/master/Trees/LevelOrderTraversal.java)
+#### 2. [Spiral Order Traversal](https://github.com/grv0908/Interview-Preparation/blob/master/Trees/SpiralOrderTraversal.java)
+#### 3. [Print level Order line by line](https://github.com/grv0908/Interview-Preparation/blob/master/Trees/LevelOrderTraversal.java)
+#### 4. [Diagonal Traversal](https://github.com/grv0908/Interview-Preparation/blob/master/Trees/DiagonalTraversal.java)
+#### 5. [Print Tree in Vertical Order](https://github.com/grv0908/Interview-Preparation/blob/master/Trees/PrintTreeInVerticalOrder.java)
 #### 6. Boundary Traversal of Tree
-#### 7. Print all path Root to leaf View
+#### 7. [Print all path Root to leaf View](https://github.com/grv0908/Interview-Preparation/blob/master/Trees/PrintAllPath.java)
 
 ## B. View 
 #### 1. [Left View](https://github.com/grv0908/InterviewPreparation/blob/master/Trees/LeftView.java)
