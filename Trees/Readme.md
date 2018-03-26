@@ -27,6 +27,7 @@
 #### 9. Print nodes at K distance from root.
 #### 10. Find Lowest Common Ancestor of two nodes.
 #### 11. Find distance between two nodes of a binary Tree.
+#### 12. Check One tree is subtree of Other.
 
 ## D. Construction Questions
 #### 1. Construct a Mirror of a binary Tree.
