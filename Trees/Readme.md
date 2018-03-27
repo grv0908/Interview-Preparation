@@ -34,3 +34,9 @@
 #### 2. Construct a Tree from given inorder and preorder.
 #### 3. Construct a Tree from given inorder and postorder.
 #### 4. Construct a Complete Binary Tree from LinkedList Representation.
+
+## E. Mixed Question (Intermediate & Advance Level)
+#### 1. Height of a n-ary Tree
+#### 2. Serialize and Deserialize a binary tree
+#### 3. Serialize and Deserialize a n-ary tree
+#### 4. 
