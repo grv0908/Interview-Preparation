@@ -17,6 +17,7 @@
 ## 5. Tree
 - [Generic Tree](https://github.com/grv0908/InterviewPreparation/blob/master/DataStructuresImplementation/GenericTree.java)
 - [Binary Tree](https://github.com/grv0908/InterviewPreparation/blob/master/DataStructuresImplementation/06.java)
+- [BST](https://github.com/grv0908/Interview-Preparation/blob/master/DataStructuresImplementation/BST.java)
 
 ## 6. Graph
 
