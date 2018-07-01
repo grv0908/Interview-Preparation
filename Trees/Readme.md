@@ -25,9 +25,10 @@
 #### 7. Check whether Tree is a sumTree or not.
 #### 8. Check whether Binary Tree is BST or not.
 #### 9. Print nodes at K distance from root.
-#### 10. Find Lowest Common Ancestor of two nodes.
-#### 11. Find distance between two nodes of a binary Tree.
-#### 12. Check One tree is subtree of Other.
+#### 10. Print nodes at K distance from a given node.
+#### 11. Find Lowest Common Ancestor of two nodes.
+#### 12. Find distance between two nodes of a binary Tree.
+#### 13. Check One tree is subtree of Other.
 
 ## D. Construction Questions
 #### 1. Construct a Mirror of a binary Tree.
