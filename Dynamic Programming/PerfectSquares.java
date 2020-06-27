@@ -18,8 +18,8 @@ class Solution {
             for(int i = 0; i < size; ++i){
                 int num = q.poll();
                 
-                for(int pSquar : perfectSquare){
-                    int remain = num - pSquar;
+                for(int pSquare : perfectSquare){
+                    int remain = num - pSquare;
                     if(remain == 0){
                        return level; 
                     }else if(remain > 0 && !visited[remain - 1]){
